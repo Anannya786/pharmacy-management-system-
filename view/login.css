@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+}
+.logindiv{
+		display: block;
+	background-color: rgb(51, 204, 255);
+	width: 300px;
+	height: auto;
+	text-align: center;
+	outline: 2px solid black;
+	margin: 230px auto;
+
+
+}
+.submit{
+	font-size: 20px;
+	border: 2px solid black;
+	color: #000000;
+	background-color: rgb(204, 153, 255);
+	border-radius: 25px;
+	font-family: serif;
+    font-weight: 300;
+    width: 25%;
+    height: 35%;
+    padding: 10px;
+}
+.logindiv:hover{
+	box-shadow: 2px 2px 2px black;
+	transform: scale(1.01);
+}
+.submit:hover{
+	background-color: rgb(102, 102, 102);
+    font-weight: bold;
+	
+}
+.register:hover{
+	color: red;
+}
+ .loginTag  {
+	color: rgb(204,102,0);
+	font-family: serif;
+	display: block;
+	margin-top: 20px;
+}
+.user{
+	color: rgb(204,102,0);
+
+}
+.Password{
+	color: rgb(204,102,0);
+}
+.regask{
+	color: rgb(204,102,0);
+}
+.register{
+	color: rgb(204,102,0);
+}

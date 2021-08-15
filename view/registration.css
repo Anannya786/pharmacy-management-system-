@@ -1,0 +1,44 @@
+body{
+	background-color: rgb(204,153,255);
+}
+.header .tag{
+	color: skyblue;
+	align: center;
+}
+.header{
+	text-align: center;
+}
+.submit{
+	background-color: skyblue;
+	color: white;
+	height: 50px;
+	width: 100px;
+	display: block;
+	margin: 0 auto;
+	
+	border-radius: 20px;
+}
+.submit:hover{
+	background-color: red;
+
+}
+.link{
+	margin: auto;
+	display: table;
+	color: rgb(204, 0, 0);
+}
+.link:hover{
+	color: black;
+}
+.successful{
+	margin: auto;
+	display: table;
+	color: rgb(0, 0, 204);
+	font-size: 200%;
+}
+.error{
+	margin: auto;
+	display: table;
+	color: rgb(128, 128, 128);
+	font-size: 200%;
+}

@@ -1,0 +1,30 @@
+.home:hover{
+	background-color: skyblue;
+
+}
+.hometext{
+	text-decoration: none;
+	color: white;
+}
+.cpass:hover{
+	background-color: skyblue;
+
+}
+.cpassText{
+	text-decoration: none;
+	color: white;
+}
+.updateText{
+	text-decoration: none;
+	color: white;
+}
+.update:hover{
+	background-color: skyblue;
+}
+.logoutText{
+	text-decoration: none;
+	color: white;
+}
+.logout:hover{
+	background-color: skyblue;
+}
